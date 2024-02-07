@@ -7,5 +7,6 @@ publication_types: ["1"]
 abstract: ""
 featured: false
 publication: "*ICC 2022-IEEE International Conference on Communications*"
+url_pdf: "https://ieeexplore.ieee.org/abstract/document/9838861"
 ---
 
