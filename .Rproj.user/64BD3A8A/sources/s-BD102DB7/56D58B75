@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1707288133477.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2225917372",
+    "id" : "56D58B75",
+    "lastKnownWriteTime" : 1707288147,
+    "last_content_update" : 1707288147283,
+    "path" : "~/Desktop/netlify/homepage/config/_default/config.toml",
+    "project_path" : "config/_default/config.toml",
+    "properties" : {
+        "cursorPosition" : "107,0",
+        "scrollLine" : "88"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
