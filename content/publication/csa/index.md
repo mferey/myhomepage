@@ -7,6 +7,7 @@ publication_types: ["0"]
 abstract: ""
 featured: false
 publication: "*2019 IEEE International Symposium on Information Theory (ISIT)*"
+url_pdf: "https://ieeexplore.ieee.org/abstract/document/8849696"
 #url_slides: "Aloha.pdf"
 ---
 
