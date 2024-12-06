@@ -49,10 +49,11 @@ social:
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=7-RnvV0AAAAJ&view_op=list_works&gmla=AJsN-F66Pt5nKn_Ah1UUcdrkCloY4pbfzQqaKB6bCNAKIom3loxCx3qjpJ5iHglE-dQcaT50qY021nckPiDg9NziuQslNdl6o18AQ51SnQA30Mj6tlVg75Y
   
-- icon: 
-  icon_pack: 
+- icon: linkedin
+  icon_pack: custom
   link: files/cv.pdf
-  text: CV
+  svg: icons/linkedin.svg
+
   
 # - icon: github
 # icon_pack: fab
