@@ -2,14 +2,16 @@
 title: Mohammad Fereydounian
 role: Post-doctoral Researcher
 
-bio: I received my Ph.D. from the University of Pennsylvania’s <a href="https://www.ese.upenn.edu" target="_blank">Electrical and Systems Engineering (ESE) Department</a> in December 2023. Additionally, I earned a Master’s degree in Statistics from <a href="https://www.wharton.upenn.edu" target="_blank">The Wharton School</a>, University of Pennsylvania, in December 2021. Before joining Penn, I obtained an M.Sc. degree in Pure Mathematics and two B.Sc. degrees in Pure Mathematics and Electrical Engineering, all from the <a href="http://www.en.sharif.edu" target="_blank">Sharif University of Technology</a> in Tehran, Iran.
+bio: 
 
 interests:
-- Graph Neural Networks
-- Optimal Transport
-- Machine Learning
+- Mathematical Economics
+- Machine Learning 
 - Optimization
+- Network Communications
 - Information and Coding Theory
+
+
 
 education:
   courses:
@@ -36,7 +38,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:mferey@seas.upenn.edu".
+  link: '#contact'  # For a direct email link, use "mailto:mohammad.fereydounian@alumni.upenn.edu".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -70,24 +72,28 @@ user_groups:
 - Visitors
 ---
 
+**Short bio:** Mohammad Fereydounian received his Ph.D. from the University of Pennsylvania’s <a href="https://www.ese.upenn.edu" target="_blank">Electrical and Systems Engineering (ESE) Department</a> in December 2023. He also earned a Master’s degree in Statistics from <a href="https://www.wharton.upenn.edu" target="_blank">The Wharton School</a>, University of Pennsylvania, in December 2021. Before joining Penn, he completed an M.Sc. in Pure Mathematics in 2016 and two B.Sc. degrees, one in Pure Mathematics and one in Electrical Engineering, in 2014, all from the <a href="http://www.en.sharif.edu" target="_blank">Sharif University of Technology</a> in Tehran, Iran. He is interested in leveraging the power of deep core mathematics to address real-world problems in various practical domains, including economics, machine learning, optimization, and network communications.
 
 
-I am deeply passionate about mathematics and have dedicated my academic journey to its pursuit. Throughout my undergraduate and graduate studies, I had the opportunity to engage in a wide array of mathematical disciplines, both through coursework and self-study, reaching advanced levels in various areas. These include but are not limited to:
+**An overview of my academic journey:** I am deeply passionate about mathematics and have dedicated my academic life to its pursuit. Throughout my undergraduate and graduate studies, I have had the opportunity to study a wide range of mathematical disciplines up to an advanced level, including:
 
-- Graph Theory
-- Number Theory
-- Combinatorics
-- Topology
 - Abstract Algebra: Group, Ring, Field, Module, and Galois Theory
 - Operator Theory and Linear Algebra
+- Fourier, Complex, Mathematical, and Functional Analysis
 - Probability and Measure Theory
 - Manifolds and Differential Geometry
-- Fourier, Complex, Mathematical, and Functional Analysis
 - Ordinary and Partial Differential Equations
 - Logic, Set Theory, and Foundations of Mathematics
+- Topology
+- Number Theory
+- Graph Theory
+- Combinatorics
 - Mathematical Statistics and Statistical Inference
 - Mathematical Optimization
 - Information and Coding Theory
 
-Initially drawn to pursuing a Ph.D. in pure mathematics, I recognized a significant disparity between theoretical advancements and practical needs in fields like machine learning. Motivated to bridge this gap, I shifted my focus towards applied areas of mathematics, aiming to connect theoretical concepts with real-world problems. This transition led me to explore diverse fields such as Communications, Coding and Information Theory, Optimization, Network Privacy, Artificial Intelligence, Graph Neural Networks, Finance, and Economical Models where I made meaningful contributions.
- 
+During my long academic journey, I came to realize that many real-world challenges in practical domains like machine learning can be addressed by harnessing the power of pure mathematical knowledge. However, a significant gap exists between the grounded, practical world of practitioners and the abstract, transcendent realm of pure mathematicians. It felt like having a massive engine and a powerful power plant, yet leaving them disconnected. Bridging this gap is no trivial task—it requires the construction of substantial intermediate theoretical frameworks.
+
+Driven by this realization, I chose to apply my years of expertise in pure mathematics to solving real-world problems rather than focusing solely on abstract mathematical questions. This transition led me to explore diverse fields, including Machine Learning, Network Communications and Privacy, Information and Coding Theory, Optimization, and Economic Models, where I have made meaningful contributions.
+
+And the journey continues...
