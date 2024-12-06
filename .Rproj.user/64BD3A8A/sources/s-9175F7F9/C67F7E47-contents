@@ -8,7 +8,7 @@ interests:
 - Mathematical Economics
 - Machine Learning 
 - Optimization
-- Network Communications and Privacy
+- Network Communications
 - Information and Coding Theory
 
 
