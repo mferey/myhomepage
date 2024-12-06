@@ -2,7 +2,7 @@
 title: Mohammad Fereydounian
 role: Post-doctoral Researcher
 
-bio: 
+bio: I received my Ph.D. from the University of Pennsylvania’s <a href="https://www.ese.upenn.edu" target="_blank">Electrical and Systems Engineering (ESE) Department</a> in December 2023. Additionally, I earned a Master’s degree in Statistics from <a href="https://www.wharton.upenn.edu" target="_blank">The Wharton School</a>, University of Pennsylvania, in December 2021. Before joining Penn, I obtained an M.Sc. degree in Pure Mathematics and two B.Sc. degrees in Pure Mathematics and Electrical Engineering, all from the <a href="http://www.en.sharif.edu" target="_blank">Sharif University of Technology</a> in Tehran, Iran.
 
 interests:
 - Graph Neural Networks
@@ -70,7 +70,7 @@ user_groups:
 - Visitors
 ---
 
-I received my Ph.D. from the University of Pennsylvania’s <a href="https://www.ese.upenn.edu" target="_blank">Electrical and Systems Engineering (ESE) Department</a> in December 2023. Additionally, I earned a Master’s degree in Statistics from <a href="https://www.wharton.upenn.edu" target="_blank">The Wharton School</a>, University of Pennsylvania, in December 2021. Before joining Penn, I obtained an M.Sc. degree in Pure Mathematics and two B.Sc. degrees in Pure Mathematics and Electrical Engineering, all from the <a href="http://www.en.sharif.edu" target="_blank">Sharif University of Technology</a> in Tehran, Iran.
+
 
 I am deeply passionate about mathematics and have dedicated my academic journey to its pursuit. Throughout my undergraduate and graduate studies, I had the opportunity to engage in a wide array of mathematical disciplines, both through coursework and self-study, reaching advanced levels in various areas. These include but are not limited to:
 

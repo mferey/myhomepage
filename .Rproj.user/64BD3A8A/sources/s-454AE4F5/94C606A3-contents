@@ -1,9 +1,0 @@
-@misc{fereydounian2020safe,
- archiveprefix = {arXiv},
- author = {Mohammad Fereydounian and Zebang Shen and Aryan Mokhtari and Amin Karbasi and Hamed Hassani},
- eprint = {2006.13326},
- primaryclass = {cs.LG},
- title = {Safe Learning under Uncertain Objectives and Constraints},
- year = {2020}
-}
-
