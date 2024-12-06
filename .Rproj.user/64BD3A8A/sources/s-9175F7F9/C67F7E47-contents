@@ -56,7 +56,11 @@ social:
 # uncomment the following for cv and linkedin
 # - icon: cv
 #  icon_pack: ai
-#  link: files/cv.pdf
+# link: files/cv.pdf
+ 
+# - icon: cv
+# icon_pack: ai
+# link: files/cv.pdf
   
 #- icon: linkedin
 #  icon_pack: fab
