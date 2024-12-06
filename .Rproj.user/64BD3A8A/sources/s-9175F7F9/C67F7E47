@@ -5,15 +5,15 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "1895401225",
+    "hash" : "0",
     "id" : "C67F7E47",
-    "lastKnownWriteTime" : 1733468403,
-    "last_content_update" : 1733468403251,
+    "lastKnownWriteTime" : 1733522139,
+    "last_content_update" : 1733522139190,
     "path" : "~/Desktop/Private/Homepage/netlify/homepage/content/authors/admin/_index.md",
     "project_path" : "content/authors/admin/_index.md",
     "properties" : {
-        "cursorPosition" : "10,24",
-        "scrollLine" : "0"
+        "cursorPosition" : "59,20",
+        "scrollLine" : "36"
     },
     "relative_order" : 1,
     "source_on_save" : false,

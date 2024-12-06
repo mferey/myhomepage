@@ -1,6 +1,6 @@
 ---
 title: Mohammad Fereydounian
-role: Post-doctoral Researcher
+role: Researcher
 
 bio: 
 
@@ -76,7 +76,7 @@ user_groups:
 **Short bio:** Mohammad Fereydounian received his Ph.D. from the University of Pennsylvania’s <a href="https://www.ese.upenn.edu" target="_blank">Electrical and Systems Engineering (ESE) Department</a> in December 2023. He also earned a Master’s degree in Statistics from <a href="https://www.wharton.upenn.edu" target="_blank">The Wharton School</a>, University of Pennsylvania, in December 2021. Before joining Penn, he completed an M.Sc. in Pure Mathematics in 2016 and two B.Sc. degrees, one in Pure Mathematics and one in Electrical Engineering, in 2014, all from the <a href="http://www.en.sharif.edu" target="_blank">Sharif University of Technology</a> in Tehran, Iran. He is interested in leveraging the power of deep core mathematics to address real-world problems in various practical domains, including economics, machine learning, optimization, and network communications. He has also gained experience in teaching through several roles as a guest lecturer and teaching assistant over the years, which have been recognized with teaching awards and certificates.
 
 
-**An overview of my academic journey:** I am deeply passionate about mathematics and have dedicated my academic life to its pursuit. Throughout my undergraduate and graduate studies, I have had the opportunity to study a wide range of mathematical disciplines up to an advanced level, including:
+**A perspective on my academic journey:**  I am deeply passionate about mathematics and have devoted my academic life to its exploration. During my undergraduate and graduate studies, I have had the privilege of delving into a broad spectrum of mathematical disciplines at an advanced level, including:  
 
 - Abstract Algebra: Group, Ring, Field, Module, and Galois Theory
 - Operator Theory and Linear Algebra
