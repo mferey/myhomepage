@@ -8,7 +8,7 @@ abstract: ""
 featured: false
 publication: "*National Bureau of Economic Research*"
 url_pdf: "https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=4206149"
-url_pdf: "https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=4206149"
+url_NBER: "https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=4206149"
 #url_slides: "1.pdf"
 #url_poster: "1.pdf"
 ---
