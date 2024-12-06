@@ -5,6 +5,7 @@ role: Researcher
 bio: 
 
 interests:
+- Mathematical Modeling
 - Mathematical Economics
 - Machine Learning 
 - Optimization
