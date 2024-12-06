@@ -14,12 +14,12 @@
       {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
     {{ end }}
     <li>
-      <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}>
-         {{ if .svg }}
+      <a href="{{ .link }}">
+    {{ if .svg }}
       <img src="{{ .svg }}" alt="{{ .icon }}" style="width: 20px; height: 20px;">
     {{ else }}
-        <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }}"></i>
-        {{ end }}
+      <i class="{{ .icon_pack }} {{ .icon }}"></i>
+    {{ end }}
       </a>
     </li>
   {{end}}
