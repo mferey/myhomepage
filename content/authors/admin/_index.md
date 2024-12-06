@@ -39,30 +39,27 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:mohammad.fereydounian@alumni.upenn.edu".
-#- icon: twitter
+  
+# - icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
+ 
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=7-RnvV0AAAAJ&view_op=list_works&gmla=AJsN-F66Pt5nKn_Ah1UUcdrkCloY4pbfzQqaKB6bCNAKIom3loxCx3qjpJ5iHglE-dQcaT50qY021nckPiDg9NziuQslNdl6o18AQ51SnQA30Mj6tlVg75Y
-#- icon: github
+  
+# - icon: github
 # icon_pack: fab
 #  link: https://github.com/gcushen
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 
-
-
 # uncomment the following for cv and linkedin
-# - icon: cv
-#  icon_pack: ai
-# link: files/cv.pdf
- 
 # - icon: cv
 # icon_pack: ai
 # link: files/cv.pdf
   
-#- icon: linkedin
+# - icon: linkedin
 #  icon_pack: fab
 #  link: https://www.linkedin.com/in/mohammad-fereydounian/
 

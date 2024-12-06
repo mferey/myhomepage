@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1733466580305.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "6F813A87",
+    "lastKnownWriteTime" : 1595032306,
+    "last_content_update" : 1595032306,
+    "path" : "~/Desktop/Private/Homepage/netlify/homepage/static/admin/config.yml",
+    "project_path" : "static/admin/config.yml",
+    "properties" : {
+        "cursorPosition" : "103,20",
+        "scrollLine" : "87"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}
