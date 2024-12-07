@@ -37,9 +37,11 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:mohammad.fereydounian@alumni.upenn.edu".
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
+  
+# For a direct email link, use "mailto:mohammad.fereydounian@alumni.upenn.edu".
   
 # - icon: twitter
 #  icon_pack: fab
@@ -53,9 +55,10 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/in/mohammad-fereydounian/
   
-- icon: cv
-  icon_pack: ai
-  link: files/cv.pdf
+  
+- icon: envelope
+  icon_pack: fas
+  link: '#contact'  
 
   
 # - icon: github
