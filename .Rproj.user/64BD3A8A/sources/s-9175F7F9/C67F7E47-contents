@@ -52,6 +52,10 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/mohammad-fereydounian/
+  
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
   
 # - icon: github
